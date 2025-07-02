@@ -2,8 +2,8 @@
   "name": "Deepak-Porwal-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://DeepakPorwal.github.io/Deepak_Portfolio_New",
-
+"homepage": "https://deepak-porwal-code.github.io/Deepak_Portfolio_New"
+,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
     "@emotion/react": "^11.11.0",
