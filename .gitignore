@@ -1,0 +1,34 @@
+# Dependency directories
+node_modules/
+
+# Build output
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environment variables file
+.env
+
+# Optional coverage folder (if you use testing)
+coverage/
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Misc
+*.log
+
+git add .gitignore
+git commit -m "Update .gitignore"
